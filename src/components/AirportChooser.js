@@ -34,7 +34,8 @@ class AirportChooser extends React.Component{
         //             }); 
         //             this.getDataIncrementally(data);
         //         }, 2000)
-        //     });
+        //     })
+        //     .catch(err => console.log(err));
 
     //-----***********************----Fetch from server (END)-----********************----------------
 
