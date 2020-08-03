@@ -1,0 +1,36 @@
+.airport-component{
+    margin: 20px 0px;
+    padding:10px;
+    background: #efefef;
+}
+
+
+.dropdown-menu.show {
+  height: 400px;
+  overflow-y: auto;
+}
+a.dropdown-item{
+  white-space: normal;
+  word-wrap:break-word;
+  border-bottom:1px dotted #ddd;
+}
+#dropdown-basic{
+    background-color: #001135;
+    border-color: #001135;
+    border-radius: 0;
+    text-transform: capitalize;
+    outline: none;
+    box-shadow:none;
+    width:100%;
+}
+.airport-code{
+  padding:0px 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #777778;
+}
+.airport-name{
+  margin-left: 22px;
+  font-size: 90%;
+  color: #777778;
+}

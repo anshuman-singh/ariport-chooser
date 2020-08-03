@@ -1,0 +1,20 @@
+.selected{
+    box-shadow: 5px 16px 20px #777778;
+    border: 1px solid #ddd;
+    padding: 30px;
+}
+.location-name{
+    font-size:30px;
+    font-weight: 300;
+    color:#001135;
+}
+.location-code{
+    font-size:28px;
+    font-weight:600;
+    color:#777778;
+    margin: 0px 10px;
+}
+.common{
+    margin: 0px 10px 30px 0px;
+    color: #777778;
+}
